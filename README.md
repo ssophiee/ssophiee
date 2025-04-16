@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔬 AI Researcher | 📊 Data Scientist | 🎓 LMU MSc Student  <br>🚀 Researching multi-agent systems & building RAG system  <br>📍 Currently in Munich
+🔬 AI Researcher | 📊 Data Scientist | 🎓 LMU MSc Student  <br>🚀 Researching multi-agent systems & building RAG at work  <br>📍 Currently in Munich
 
 
 ## 🌐 Socials:
