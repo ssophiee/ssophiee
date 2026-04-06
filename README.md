@@ -1,5 +1,5 @@
-## 💫 About Me:
-ML Researcher | Data Scientist | LMU MSc Student  <br> Researching multi-agent systems & building RAG at work  <br>📍 Currently in Munich
+## About Me:
+ML Researcher | LMU MSc Student  <br> Researching AI Safety & building RAG systems at work <br>📍 Currently in Munich
 
 
 ## 🌐 Socials:
