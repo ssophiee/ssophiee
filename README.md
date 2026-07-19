@@ -3,7 +3,7 @@ ML Researcher | LMU MSc Student  <br> Researching AI Safety & building RAG syste
 
 
 ## 🌐 Socials:
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eQJT5jQAAAAJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nik_sophi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sofiia-nikolenko-97345a292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssophi.nikol@gmail.com) 
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eQJT5jQAAAAJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nik_sophi) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/sofiia-nikolenko-97345a292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ssophi.nikol@gmail.com) 
 
 
 ## 💻 Tech Stack:
