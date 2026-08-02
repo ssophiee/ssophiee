@@ -1,5 +1,5 @@
 ## About Me:
-ML Researcher | LMU MSc Student  <br> Researching AI Safety & building RAG systems at work <br>📍 Currently in Munich
+ML Researcher | LMU MSc Student  <br> Research interests: AI Safety, LLM, Mech Interp <br>📍 Currently in Munich
 
 
 ## 🌐 Socials:
